@@ -1,0 +1,1 @@
+Controller goes to view goes to model. With Rails it utilizes the core gems of Active Record which handles the models, Actionview which handles the view, and actioncontroller which handles the control of MVC. 
